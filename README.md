@@ -14,7 +14,7 @@ As many Frontend developers work closely with UX/UI designers, Meta dedicated a 
 
 In order to receive certification, I was tasked with using what I learned in the chapter to help Little Lemon design their table reservation feature for the mobile version of their website.
 
-As this feature didn't even exist, the specification required me to properly define the problem (the Word document), create a user persona, user journey map, low-fidelity wireframes and an interactive high-fidelity prototype in Figma to show how this feature could be implemented in a way that followed the design principles of various experts in this area like Ben Shneiderman.
+As this feature didn't even exist, the specification required me to properly define the problem, create a user persona, user journey map, low-fidelity wireframes and an interactive high-fidelity prototype in Figma to show how this feature could be implemented in a way that followed the design principles of various experts in this area like Ben Shneiderman.
 
 Overall, this was a fun project to work on and still allowed me to showcase skills necessary for any Frontend developer. For example, the ability to design an application that was in line with the client's and user's needs. 
 
@@ -48,7 +48,7 @@ You can also interact with the prototype yourself via the link below. No Figma a
 
 ## Future Enhancements
 
-As this project was exclusively to showcase UX/UI skills, this is feature complete and so there will be no forseeable updates.
+As this project was exclusively to showcase UX/UI skills, this project is feature complete.
 
 ## Contact
 
