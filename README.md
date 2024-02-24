@@ -1,6 +1,6 @@
 # Little Lemon Mobile UX/UI Showcase
 
-Welcome to Little Lemon! A Chicago-based Mediterranean restaurant in desperate need of a reserve-a-table feature for its website.
+Welcome to Little Lemon! A Chicago-based Mediterranean restaurant.
 
 This was the final project for the Principles of UX/UI Design chapter of Meta's Front-End Developer certification.
 
