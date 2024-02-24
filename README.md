@@ -16,7 +16,7 @@ In order to receive certification, I was tasked with using what I learned in the
 
 As this feature didn't even exist, the specification required me to properly define the problem (the Word document), create a user persona, user journey map, low-fidelity wireframes and an interactive high-fidelity prototype in Figma to show how this feature could be implemented in a way that followed the design principles of various experts in this area like Ben Shneiderman.
 
-Overall, this was a fun project to work on and still allowed me to showcase skills necessary for any Frontend developer. For example, the ability to design an application that was in line with the client's and user's needs. I am happy I got to learn Figma and how it's used by UX/UI designers to create their work, as this experience will greatly improve my ability to collaborate with them at any future job.
+Overall, this was a fun project to work on and still allowed me to showcase skills necessary for any Frontend developer. For example, the ability to design an application that was in line with the client's and user's needs. 
 
 Although the actual Figma files are included in this repository, you can view images of them below.
 
