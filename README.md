@@ -2,7 +2,7 @@
 
 Welcome to Little Lemon! A Chicago-based Mediterranean restaurant.
 
-This was the final project for the Principles of UX/UI Design chapter of Meta's Front-End Developer certification.
+This was the final project for the Principles of UX/UI Design chapter of Meta's Frontend Developer certification.
 
 ## Technologies Used:
 
@@ -10,13 +10,13 @@ This was the final project for the Principles of UX/UI Design chapter of Meta's 
 
 ## Project Overview
 
-As many Front-End developers work closely with UX/UI designers, Meta dedicated a whole chapter on the principles of UX/UI design to better understand what they look for and how they see things during collaboration.
+As many Frontend developers work closely with UX/UI designers, Meta dedicated a whole chapter on the principles of UX/UI design to better understand what they look for and how they see things during collaboration.
 
 In order to receive certification, I was tasked with using what I learned in the chapter to help Little Lemon design their table reservation feature for the mobile version of their website.
 
 As this feature didn't even exist, the specification required me to properly define the problem (the Word document), create a user persona, user journey map, low-fidelity wireframes and an interactive high-fidelity prototype in Figma to show how this feature could be implemented in a way that followed the design principles of various experts in this area like Ben Shneiderman.
 
-Overall, this was a fun project to work on and still allowed me to showcase skills necessary for any Front-End developer. For example, the ability to design an application that was in line with the client's and user's needs. I am happy I got to learn Figma and how it's used by UX/UI designers to create their work, as this experience will greatly improve my ability to collaborate with them at any future job.
+Overall, this was a fun project to work on and still allowed me to showcase skills necessary for any Frontend developer. For example, the ability to design an application that was in line with the client's and user's needs. I am happy I got to learn Figma and how it's used by UX/UI designers to create their work, as this experience will greatly improve my ability to collaborate with them at any future job.
 
 Although the actual Figma files are included in this repository, you can view images of them below.
 
